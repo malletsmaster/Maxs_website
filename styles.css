@@ -3,13 +3,24 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 20px;
-    color: #333;
+    background-color: #E6797B;
     max-width: 800px;
     margin: 0 auto;
+    text-align: center;
 }
 
 h1 {
     color: #2c3e50;
     border-bottom: 2px solid #eee;
     padding-bottom: 10px;
+    text-align: center;
+}
+
+p {
+    color: red;
+}
+
+div {
+    background-color: cyan;
+    border-radius: 15px;
 }
